@@ -1,2 +1,4 @@
 # cs50-2019
-Temporary repository for all code written in Harvard's edX CS50 course in 2019.
+Problem sets I've worked on from the Harvard CS50x course from 2019-2020.
+
+
